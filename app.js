@@ -12,7 +12,7 @@ const bigquery = BigQuery({
     projectId: process.env.GCP_PROJECT_ID
 });
 
-const hashtag = '#nbarumors';
+const hashtag = '#nba';
 
 // TODO: Remove hard coding
 //
